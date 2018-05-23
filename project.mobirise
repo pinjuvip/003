@@ -22,6 +22,9 @@
       }
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/llllogo-111x92.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.5.3",
     "uniqCompNum": 10,
     "versionPublish": "4.5.3"
@@ -30,8 +33,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "品居  关于我们",
+        "meta_descr": "公司介绍  联系方式",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
